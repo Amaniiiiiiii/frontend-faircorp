@@ -1,0 +1,54 @@
+/*给标题加样式*/
+#title {
+    border: 1px solid black;
+}
+
+/*给table中的每个环加样式*/
+th {
+    font-size: 1.6em;
+    list-style-type: none;
+    background-color: #EBC9C7;
+    border: 1px solid black;
+    display: inline;
+    text-align: center;
+    flex: 1;
+    padding: 15px;
+}
+
+/*给这个table加样式*/
+table tr {
+    list-style-type: none;
+    flex: 3;
+    display: flex;
+}
+
+/*给button加样式*/
+#button{
+    border-radius: 25px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    margin-left: 500px;
+
+    background-color: skyblue; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-self: center;
+}
+
+td {
+    font-size: 1.6em;
+    list-style-type: none;
+    background-color: #EBC9C7;
+    border: 1px solid black;
+    display: inline;
+    text-align: center;
+    flex: 1;
+    padding: 15px;
+}
+
+
+
